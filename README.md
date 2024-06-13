@@ -34,13 +34,11 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 ## Screenshot 📷
 -📌 Tatlılar Sayfası
 <pre>
-     <img src="screenshot/Tatlılar.png" alt="Desert Screen" height="425">      <img src="screenshot/anasayfa.gif" alt="Tatlılar Sayfası Gif" height="425">      
+     ![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/1a9419ad-dfd1-49c8-b3fb-e71e822b57d9)
 </pre>
 
--📌 Deniz Ürünleri Sayfası
-<pre>
-     <img src="screenshot/desertYemekler.png" alt="Seafood Screen" height="425">    <img src="screenshot/sda.png" alt="Seafood Screen" height="425">  <img src="screenshot/seafood.gif" alt="Seafood Gif" height="425">
-</pre>
+
+
 
 
 
@@ -57,10 +55,7 @@ Konu: A food application that can read data in JSON format with REST from https:
 ## Screenshot 📷
 -📌 Desert Screen
 <pre>
-     <img src="screenshot/Tatlılar.png.png" alt="Desert Screen" height="425">      <img src="screenshot/anasayfa.gif.gif" alt="Desert Screen Gif" height="425">      
+     ![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/71095a4c-25b8-4909-adea-7888d7b889c6)
+
 </pre>
 
--📌 Seafood Screen
-<pre>
-     <img src="screenshot/desertYemekler.png" alt="Category Screen" height="425">    <img src="screenshot/yemek.png" alt="Seafood Screen" height="425">  <img src="screenshot/seafood.gif" alt="Seafood Screen Gif" height="425">
-</pre>
