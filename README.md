@@ -33,9 +33,7 @@ Konu: https://www.themealdb.com REST ile JSON biçiminde veri okuma yapabilen uy
 
 ## Screenshot 📷
 -📌 Tatlılar Sayfası
-<pre>
-     ![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/1a9419ad-dfd1-49c8-b3fb-e71e822b57d9)
-</pre>
+![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/9c9d40d9-554a-49fc-b541-4031b89d9016)
 
 
 
@@ -54,8 +52,5 @@ Konu: A food application that can read data in JSON format with REST from https:
 
 ## Screenshot 📷
 -📌 Desert Screen
-<pre>
-     ![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/71095a4c-25b8-4909-adea-7888d7b889c6)
-
-</pre>
+![WhatsApp Görsel 2024-06-12 saat 22 37 49_13665083](https://github.com/muhammed432/Mobile-project/assets/171627973/784f3ee6-af10-4541-a483-988fa2a03c44)
 
